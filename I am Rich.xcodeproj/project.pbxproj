@@ -6,6 +6,10 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		91E3938F2E65F5CD00A4D982 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 91E3938E2E65F5C200A4D982 /* .gitignore */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXContainerItemProxy section */
 		91E3935A2E65CAE900A4D982 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
@@ -27,6 +31,7 @@
 		91E393432E65CAE700A4D982 /* I am Rich.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "I am Rich.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		91E393592E65CAE900A4D982 /* I am RichTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "I am RichTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		91E393632E65CAE900A4D982 /* I am RichUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "I am RichUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		91E3938E2E65F5C200A4D982 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
@@ -88,6 +93,7 @@
 		91E3933A2E65CAE700A4D982 = {
 			isa = PBXGroup;
 			children = (
+				91E3938E2E65F5C200A4D982 /* .gitignore */,
 				91E393452E65CAE700A4D982 /* I am Rich */,
 				91E3935C2E65CAE900A4D982 /* I am RichTests */,
 				91E393662E65CAE900A4D982 /* I am RichUITests */,
@@ -225,6 +231,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				91E3938F2E65F5CD00A4D982 /* .gitignore in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
